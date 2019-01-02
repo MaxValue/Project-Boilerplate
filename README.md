@@ -69,6 +69,18 @@ Things I already plan to implement, but didn't have yet:
 * template for bash
 * template for processing
 * git init code
+	```
+	git config --global user.email "publicbetamax@example.com"
+	git config --global user.name "Max Fuxjäger"
+
+	echo "# Project-Boilerplate" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/MaxValue/Project-Boilerplate.git
+	git push -u origin master
+	```
+
 	* actually init the repo
 	* "create" repo for all platforms
 		* LIST HERE
