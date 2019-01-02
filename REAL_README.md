@@ -82,11 +82,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ### Roadmap
 Things I already plan to implement, but didn't have yet:
-- [] Make website
-- [] Make styling
-- [] Make cards explaining the types
-- [] Test for mobile
-- [] Integrate with Twitter
+- [] Some Feature
 
 ## Versioning
 
@@ -94,7 +90,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Max Fuxjäger** - *Initial work* - [MaxValue](https://github.com/MaxValue)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -108,8 +104,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
-Project History
-This project was created because I (Max) thought that this could be useful to a lot of people.
-I got the idea for this from [this tweet](https://twitter.com/sbarolo/status/1036685010869407744).
-All credits go to [Scott Barolo](https://twitter.com/sbarolo/) and [shrew](https://twitter.com/shrewshrew). Of course, if they want this taken down, I will take it down, but I highly doubt that will happen.
-
+### Project History
+This project was created because I (Max) thought that ...
