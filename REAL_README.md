@@ -102,9 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Clear Name** - *Contributed Part* - [Site Title](Link)
 
 ### Project History
 This project was created because I (Max) thought that ...
