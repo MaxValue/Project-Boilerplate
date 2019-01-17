@@ -8,7 +8,6 @@ list=(
 for i in "${list[@]}"; do
      case "$1" in
           globhere )
-               # rar command
                if commandhere; then
                     echo "True!"
                     break
