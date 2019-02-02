@@ -25,11 +25,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-A browser. I recommend [Firefox](https://www.mozilla.org/en-US/firefox/new/).
+I recommend you to use the `setup_development.sh` script by running
 
 ```
-Give examples
+chmod +x setup_development.sh && ./setup_development.sh
 ```
+
+but if you don't want to do that, here is the complete list of dependencies:
+
+* [Python 3](https://www.python.org/downloads/)
+* [Scrapy](https://scrapy.org/)
 
 ### Installing
 
