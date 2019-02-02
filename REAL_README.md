@@ -89,7 +89,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ### Roadmap
 Things I already plan to implement, but didn't have yet:
-- [] Some Feature
+- [ ] Some Feature
 
 ## Versioning
 
