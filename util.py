@@ -153,7 +153,7 @@ def find_filename(prefix, fileending=".txt", counter=2, formatstring="{}_{}"):
 	#get matched group of regex match
 		re_match.group("groupname")
 
-	#convert bitestring to normal string
+	#convert bytestring to normal string
 		str(STRINGVAR,"utf-8")
 
 # OUTPUT
