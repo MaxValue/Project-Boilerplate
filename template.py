@@ -14,7 +14,7 @@ INFO:
 # CONSTANTS HERE
 
 import re, csv, argparse, json, logging
-#subprocess, csv, os, random, time, string, re, json, xmlrpc.client
+#subprocess, csv, os, random, time, string, re, json, xmlrpc.client, configparser
 #from mako.template import Template as mako_Template
 
 parser = argparse.ArgumentParser(argument_default=False, description='Clean raw lab data.')
@@ -42,6 +42,15 @@ if args.log:
 	logging.basicConfig(filename=args.log, filemode='a', level=loglevel)
 else:
 	logging.basicConfig(level=loglevel)
+
+config = configparser.ConfigParser()
+config.read('example.ini')
+config.sections()
+# the sections are dicts
+config['section'].get('key', fallback='value')
+config['section'].getint('key', fallback='value')
+config['section'].getfloat('key', fallback='value')
+config['section'].getboolean('key', fallback='value')
 
 #$Logic
 	#Load data
