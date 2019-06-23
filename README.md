@@ -49,6 +49,9 @@ Fill in the `REAL_README.md` file.
 subl -n REAL_README.md
 ```
 
+Find fitting `.gitignore` instructions [here](https://www.gitignore.io/)
+and put them in your `.gitignore` file.
+
 Run the `init_project.sh` script.
 
 ```
