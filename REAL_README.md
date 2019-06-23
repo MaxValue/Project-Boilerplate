@@ -35,6 +35,7 @@ but if you don't want to do that, here is the complete list of dependencies:
 
 * [Python 3](https://www.python.org/downloads/)
 * [Scrapy](https://scrapy.org/)
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) - The web browser I use
 
 ### Installing
 
