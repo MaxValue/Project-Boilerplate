@@ -7,5 +7,9 @@
 			"folder_exclude_patterns": [".bundle", "vendor", "__pycache__", "venv", "browser_profiles", "build-tmp"],
 			"file_exclude_patterns": ["Gemfile.lock", "*.zip"]
 		}
-	]
+	],
+	"preferences": {
+		"dictionary": "Packages/Language - English/en_GB.dic",
+		// "dictionary": "Packages/Language - German/de_AT.dic",
+	}
 }
